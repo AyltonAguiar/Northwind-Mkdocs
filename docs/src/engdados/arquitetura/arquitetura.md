@@ -2,7 +2,7 @@
 
 A arquitetura do Data Warehouse utiliza a plataforma `Redshift` da Amazon como banco de dados, com armazenamento em `S3` e gerenciamento de segredos com `Secrets Manager`.
 
-O gerenciamento de recursos e adição de objetos são feitos com `Terraform` e a integração e transformação de dados é realizada com `DBT Cloud`.
+O gerenciamento de recursos e adição de objetos são feitos com `Terraform` e a transformação de dados é realizada com `DBT Cloud`.
 
 A visualização é feita com `Looker Studio`.
 
